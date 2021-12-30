@@ -27,7 +27,7 @@ Density of Hg = 13600 kg/m<sup>3</sup></br>
 
 ##### Observations :
 
-<table border="1">
+<table >
   <tr>
     <th rowspan="2">Sl No.<br></th>
     <th rowspan="2">Rotameter<br>reading LPM <br></th>
