@@ -2,38 +2,85 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "For laminar flow in a pipe, the Fanning friction factor depends on Reynolds number according to the relation?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "f = 24/ Re",
+        "b": "f = 16/ Re",
+        "c": "f = 18.5/ Re",
+        "d": "None of the above"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
-      "correctAnswer": "a",
-      "difficulty": "beginner"
+      "correctAnswer": "b",
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Under otherwise uniform conditions Fanning friction factor for a rough pipe is?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "smaller than that for a smooth pipe",
+        "b": "greater than that for a smooth pipe",
+        "c": "equal to that for a smooth pipe"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Applying a pressure drop across a capillary results in a volumetric flow rate Q under laminar flow conditions. The flow rate, for the same pressure drop, in a capillary of the same length but half the radius is.",
+      "answers": {
+        "a": "Q/2",
+        "b": "Q/4",
+        "c": "Q/8",
+        "d": "Q/16"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "Two identical pressure gauges at the foot of two storage tanks that are at the same elevation, the water levels in the tanks are the same, one tank holds 1,00,000 litre (tank 1), the other holds 1000 litre (tank 1),. Say which one is true?",
+      "answers": {
+        "a": "Pressure gauge reading of tank 1 and that of tank 2 are same",
+        "b": "Pressure gauge reading of tank 2 is greater than that of tank 1",
+        "c": "Pressure gauge reading of tank 1 is greater than that of tank 2"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "For hydraulically smooth pipe, the resistance to flow depends only on the?",
+      "answers": {
+        "a": "flow Reynolds number",
+        "b": "relative roughness",
+        "c": "absolute roughness",
+        "d": "Reynolds number and relative roughness"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
     }
   ]
 }
