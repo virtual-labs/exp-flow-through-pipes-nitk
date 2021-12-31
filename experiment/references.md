@@ -10,10 +10,10 @@
 4. Perry's Chemical Engineers' Handbook (7th Edition) Edited by Perry, R.H.; Green, D.W. © 1997 McGraw-Hill.<br>
 5. A. S. Foust, Principles of Unit Operations, 2nd ed. John Wiley and Sons, Inc., 1980.<br>
 6. Industrial Instrumentation by Donald P Eckman, Wiley Eastern Publication.<br>
-7. Lecture notes by M.Subramanian http://www.msubbu.in/ln/fm/.</td>
+7. Lecture notes by M.Subramanian <a href="http://www.msubbu.in/ln/fm/">http://www.msubbu.in/ln/fm/</a>.</td>
     <td style="width:35%;">
     Contributors :
-    <ul >
+    <ul style="list-style-type: circle;">
     <li> Prof. Vidya Shetty K, Department of Chemical Engineering, NITK</li>
   <li>Karthik | Department of Chemical Engineering, NITK</li>
   <li>Amogha V Somayaji | Student, Department of Chemical Engineering, NITK | 181CH006</li>
