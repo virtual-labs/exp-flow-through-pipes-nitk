@@ -75,17 +75,17 @@ resistance. This condition is known as laminar flow.
 </p>
 
 <p >
-There are in general three types of fluid flow in pipes
- <ul>
-  <li>laminar</li>
-  <li>turbulent</li>
-  <li>transient</li>
-</ul>
+There are in general three types of fluid flow in pipes :
+ <ol style="list-style-type: number">
+  <li>laminar flow</li>
+  <li>turbulent flow</li>
+  <li>transient flow</li>
+</ol>
 
 ##### Laminar flow :
 <p style="text-align: justify;">Laminar flow generally happens when dealing with small pipes , low flow
 velocities and with highly viscous fluids. At low velocities fluids tend to flow
-without lateral mixing,and adjacent layers slide past one another like playing cards.
+without lateral mixing, and adjacent layers slide past one another like playing cards.
 There are neither cross currents nor eddies. Laminar flow can be regarded as a
 series of liquid cylinders in the pipe, where the innermost parts flow the fastest,
 and the cylinder touching the pipe isn't moving at all.</p>
@@ -111,7 +111,7 @@ value of the group. The grouping of the variables so found was Reynolds Number(<
 .Turbulent or laminar flow is determined by Reynolds Number.</br>
 <center><img  src= "images/ftp1.gif" style="width:268px;height:326px"></center></br>
 
-##### Osbourne Reynolds (1842-1912) :
+#### Osbourne Reynolds (1842-1912) :
 
 The Reynolds number expresses the ratio of inertial (resistant to change or
 motion) forces to viscous forces.<!--
@@ -142,10 +142,10 @@ viscous effect compared to the inertia effect.
 The flow is
  <ul>
   <li>laminar when N<sub>Re</sub>< 2100</li>
-  <li>turbulenttransient when 2100 < N <sub>Re</sub>< 4000 </li>
+  <li>turbulent transient when 2100 < N <sub>Re</sub>< 4000 </li>
   <li>transient turbulent when 4000 < N<sub>Re</sub></li>
 </ul>
-<p style="text-algn: justify;">
+<p style="text-align: justify;">
 At laminar region, viscous forces are dominant as compared to inertial forces.
 Under laminar flow condition the pressure drop per unit length is proportional to
 the velocity. At transition region, the experimental results are not reproducible.
@@ -155,16 +155,16 @@ pressure drop becomes proportional to the velocity raised to a power of 2.
 
 #### Relationship Between Frictional Head Loss and Frictional Pressure Drop :
 
-<p style="text-indent: 30px;text-align: justify;">
+<p style="text-indent: 30px; text-align: justify;">
 The energy loss in pipe flow due to friction can be expressed as a pressure
 drop instead of as a head loss. Chemical and mechanical engineers often work with
 pressure drop, whereas civil engineers usually work with head loss. The
 relationship between frictional head loss and frictional pressure drop is simply:</br>
 
 <center><img src="images/CodeCogsEqn (10).gif" style="width:131px;height:20px">
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)</center></br></br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)</center>
 
-where,</br>
+where,
 
 <img src="images/CodeCogsEqn (10).gif" style="width:131px;height:20px"> = frictional pressure drop ,</br>
 <img src="images/CodeCogsEqn (12).gif" style="width:23px;height:19px"> = frictional head loss due to skin friction,</br>
@@ -190,17 +190,17 @@ stress to the product of the velocity head (V<sup>2</sup>/2) and density=</br></
 <img src="images/CodeCogsEqn (18).gif" style="width:232px;height:49px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(7)</center></br></br>
 Where, f is the Fannings friction factor</br>
- <ul>
+ <ul style="list-style-type: circle;">
   <li>Only need L, D, V and f to get friction loss</li>
   <li>Valid for both laminar and turbulent flow</li>
   <li>Valid for Newtonian and Non-Newtonian fluids</li>
 </ul>
 
-Correlations were made between the fanning friction factor and the Reynolds number for both
-laminar and turbulent flow in a variety of pipes.</br>
+<p style="text-align: justify;">Correlations were made between the fanning friction factor and the Reynolds number for both
+laminar and turbulent flow in a variety of pipes.
 For laminar flow, first principles can be used to develop a relation between
 Reynolds number and friction factor. The Hagen-Poiseuille equation relates the
-frictional pressure drop to fluid velocity, viscosity, and pipe dimension:</br>
+frictional pressure drop to fluid velocity, viscosity, and pipe dimension:</p>
 
 <center><img src="images/CodeCogsEqn (19).gif" style="width:146px;height:37px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(8)</center></br>
@@ -209,19 +209,19 @@ by Eq.8, with the overall pressure drop across the pipe, and combining with the
 Fanning equation given by Eq.7, results in relation for laminar flow as</br></br>
 <center>f=16/N<sub>Re</sub>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(9)</center><br>
 
-A first principle analysis can not be used to develop a relation between friction
+<p style="text-align: justify;">A first principle analysis can not be used to develop a relation between friction
 factor and Reynolds numbers for turbulent flow. A variety of empirical
 correlations exist for turbulent flow in smooth pipes.
-Blasius equations :</br></br>
+Blasius equations :</p>
 <center><img src="images/CodeCogsEqn (20).gif" style="width:117px;height:43px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(10)</center></br>
 
 The above correlation is valid for
 <img src="images/CodeCogsEqn (21).gif" style="width:139px;height:19px"></br>
 
-The Blasius equation is purely an empirical equation and has no theoretical basis,
+<p style="text-align: justify;">The Blasius equation is purely an empirical equation and has no theoretical basis,
 but it is a convenient form for application. The entire turbulent region can be
-represented by the von Kármán-Nikuradse equation:</br>
+represented by the von Kármán-Nikuradse equation:</p>
 
 <center><img src="images/CodeCogsEqn (22).gif" style="width:204px;height:42px">
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(11)</center></br>
@@ -232,14 +232,14 @@ for Re > 4000, turbulent</br>
 It has long been known that in turbulent flow a rough pipe leads to a larger
 friction factor for a given Reynolds number than a smooth pipe does. If a rough
 pipe is smoothed , the friction factor is reduced. When further smoothing brings
-about no further reduction in friction factor for a given Reynolds number,the tube
+about no further reduction in friction factor for a given Reynolds number, the tube
 is said to be hydraulically smooth.</p>
 
 <p style="text-indent: 30px;text-align: justify;">
 In turbulent flow, the friction factor, f depends upon the Reynolds number and
 on the relative roughness of the pipe, k/D, where, k is the roughness
 parameter(average roughness height of the pipe) and D is the inner diameter of the
-pipe. . The general behavior of turbulent pipe flow in the presence of surface
+pipe. . The general behaviour of turbulent pipe flow in the presence of surface
 roughness is well established. When k is very small compared to the pipe diameter
 D i.e. k/D->0, f depends only on N<sub></sub>Re. When k/D is of a significant value, at low
 N<sub></sub>Re , the flow can be considered as in smooth regime (there is no effect of
@@ -255,6 +255,6 @@ independent of the effect of k on the flow.
 In case of rough pipe flow, the viscous sub layer thickness is very small when
 compared to roughness height and thus the flow is dominated by the roughness of
 the pipe wall and f is the function only of k/D and is independent of N<sub>Re</sub> .
-For design purposes, the frictional characteristics of round pipes,both smooth and
+For design purposes, the frictional characteristics of round pipes, both smooth and
 rough ,are summarized by the friction factor chart, which is a log-log plot of
 Fanning friction factor (f ) vs N<sub>Re</sub> which is based on Moody&rsquo;s chart .</p>
