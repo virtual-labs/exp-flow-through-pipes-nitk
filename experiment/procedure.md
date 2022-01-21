@@ -1,7 +1,7 @@
 
 #### Apparatus required :
 
-CCL<sub>4</sub> , H<sub>g</sub> manometer.
+CCL<sub>4</sub> manometer, H<sub>g</sub> manometer.
 
 #### Procedure :
  <ol syle="text-align: justify;">
