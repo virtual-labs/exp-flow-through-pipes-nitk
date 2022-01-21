@@ -2,38 +2,115 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "When a fluid flows over a stationary solid surface, the fluid velocity at the fluid – solid interface is?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Zero",
+        "b": "equal to free – stream velocity",
+        "c": "between zero and free – stream velocity"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": ""
       },
       "correctAnswer": "a",
-      "difficulty": "beginner"
+      "difficulty": ""
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "The unit of viscosity in CGS system is commonly known as Poise. The dimension of Poise is?",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "g/cm.s2",
+        "b": "g.cm/s",
+        "c": "g.cm2/s",
+        "d": "g/cm.s"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "d",
+      "difficulty": ""
+    },
+    {
+      "question": "If the equivalent length of a 90&deg; elbow is greater than the 45&deg; elbow, the pressure loss across the 90&deg; elbow is _________ the 45&deg; elbow.",
+      "answers": {
+        "a": "greater than",
+        "b": "lesser than",
+        "c": "same as"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
+    },
+    {
+      "question": "The loss of pressure head for the laminar flow through pipes varies as",
+      "answers": {
+        "a": "square of velocity",
+        "b": "proportional to the velocity",
+        "c": "inverse of velocity",
+        "d": "inverse of the square of velocity"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "b",
+      "difficulty": ""
+    },
+    {
+      "question": "Reynolds number is a ratio of",
+      "answers": {
+        "a": "momentum diffusivity to thermal diffusivity",
+        "b": "momentum diffusivity to molecular diffusivity",
+        "c": "inertial force to viscous force",
+        "d": "average velocity to velocity of sound"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
       },
       "correctAnswer": "c",
-      "difficulty": "beginner"
+      "difficulty": ""
+    },
+    {
+      "question": "Two tubes of diameter 1 cm and 2 cm are filled with mercury to a height of 50 cm. The tubes are open to atmosphere. Now pressure at the bottom of the mercury column will be",
+      "answers": {
+        "a": "higher for the tube of dia 1 cm",
+        "b": "higher for the tube of dia 2 cm",
+        "c": "the same for both the tubes",
+        "d": "None of the above"
+      },
+      "explanations": {
+        "a": "",
+        "b": "",
+        "c": "",
+        "d": ""
+      },
+      "correctAnswer": "c",
+      "difficulty": ""
+    },
+    {
+      "question": "Fannings friction factor for a flow with Reynolds number of 1000 is",
+      "answers": {
+        "a": "0.016",
+        "b": "0.014"
+      },
+      "explanations": {
+        "a": "",
+        "b": ""
+      },
+      "correctAnswer": "a",
+      "difficulty": ""
     }
   ]
 }
