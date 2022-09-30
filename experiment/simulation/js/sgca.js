@@ -833,7 +833,6 @@ function fluidMoveAndPinMove(angle) {
     // console.log("vpf: " + viscositypf);
 
     var dh = (hf * densitypf * 100) / (mfdensity - densitypf);
-    console.log("dh: " + dh);
     // deltaH = (hf * densitypf * 100) / (mfdensity - densitypf);
     // console.log("deltaH: " + dh);
     // console.log("halfdeltaH: " + dh / 2);
