@@ -64,10 +64,7 @@ function magic() {
 
     if (simsubscreennum == 1) {
         document.getElementById("observeTable").style.visibility = "hidden";
-        // this is for STEP1
-        // document.getElementById("completeSetUp").style.visibility = "hidden";
-        // document.getElementById("human").style.visibility = "hidden";
-        // document.getElementById('nextButton').style.visibility="hidden";
+       
     } else if (simsubscreennum == 2) {
         document.getElementById("observeTable").style.visibility = "hidden";
         document.getElementById("waterPourSecondLongOne").style.visibility = "hidden";
